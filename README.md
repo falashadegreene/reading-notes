@@ -9,4 +9,4 @@ Growth mindset in my own words.
 2. Reminder two
 3. Reminder three
 
-falashadegreene/reading-notes
+<https://github/falashadegreene/>
