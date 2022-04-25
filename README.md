@@ -5,7 +5,7 @@ My name is Falashade. Nice to meet you!
 
 **Growth mindset**
 
-My definition of _Growth Mindset_ is having the ability to believe in the process of learning something new. It is important to remember <br> with practice and dedication that you'll be alot further along than when you started. 
+My definition of _Growth Mindset_ is having the ability to believe in the process of learning something new. It is important to remember with practice and dedication that you'll be alot further along than when you started. 
 
 **Three things to remember:**
 
