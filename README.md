@@ -4,6 +4,8 @@
 
 ## My name is Falashade. Nice to meet you!
 
+I currently live in the Maryland area. I'm new to learning software development and very excited to continue my learning path with Code Fellows. 
+
 ### **Growth mindset**
 
 My definition of _Growth Mindset_ is having the ability to believe in the process of learning something new. It is important to remember with practice and dedication that you'll be alot further along than when you started. 
