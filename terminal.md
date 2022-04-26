@@ -12,3 +12,5 @@ I learned the command line is a feature or interface that allows you to use text
 4. mkdir = make directory (folder)
 
 The command line is an important tool when working in mutiple files on the computer. It allows you to work more efficiently when working on multiple projects at once. 
+
+<https://https://github.com/falashadegreene/reading-notes/terminal.md>
