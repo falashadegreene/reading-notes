@@ -1,4 +1,4 @@
-# **Intro to Terminal**
+# **Intro to Terminal and Text Editor**
 
 ### The command line
 
