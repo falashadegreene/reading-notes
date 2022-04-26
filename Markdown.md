@@ -27,4 +27,4 @@ You can create markdowns using simple characters. Below are a few basic examples
 
 - (-) , (*) or (+) unordered list 
 
-<https://falashadegreene.github.io/reading-notes/markdown.md>
+<http://falashadegreene.github.io/reading-notes/markdown.md>
