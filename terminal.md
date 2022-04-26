@@ -1,1 +1,14 @@
+# **Intro to Terminal**
 
+### The command line
+
+I learned the command line is a feature or interface that allows you to use text as a way to navigate the computer file system. There are commands you can use as navigation to locate different files. below are a few simple command prompts.
+
+#### examples:
+
+1. pwd= print working directory 
+2. ls= short for list
+3. cd = change directory 
+4. mkdir = make directory (folder)
+
+The command line is an important tool when working in mutiple files on the computer. It allows you to work more efficiently when working on multiple projects at once. 
