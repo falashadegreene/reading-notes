@@ -1,6 +1,6 @@
 # Markdown
 
-I learned that **Markdown** is essentially Shorthand syntax or basic text used for text editors.
+I learned that **Markdown** is essentially shorthand syntax or basic text used for text editors.
 
 You can create markdowns using simple charcters. Below are a few basic examples of the different characters to use for markdown of text.
 
