@@ -4,24 +4,24 @@ I learned that **Markdown** is essentially Shorthand syntax or basic text used f
 
 You can create markdowns using simple charcters. Below are a few basic examples of the different characters to use for markdown of text.
 
-###Headings 
+### Headings 
 
 - (#)=level one heading 
 - (##)=Level two heading
 - (###)=level three heading 
 
-###Emphasis (bold or italic)
+### Emphasis (bold or italic)
 
 * (** **)=bold 
 * (* *)= Italic
 * (_ _) bold and Italic
 
-###inline or blockquotes 
+### inline or blockquotes 
 
 - (>)= block quote. 
 - (>>)=Nested block quotes
 
-###list style
+### list style
 
 - (1. 2. 3.)= ordered list 
 
