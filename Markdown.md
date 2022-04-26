@@ -2,7 +2,7 @@
 
 I learned that **Markdown** is essentially shorthand syntax or basic text used for text editors.
 
-You can create markdowns using simple charcters. Below are a few basic examples of the different characters to use for markdown of text.
+You can create markdowns using simple characters. Below are a few basic examples of the different characters to use for markdown of text.
 
 ### Headings 
 
@@ -16,7 +16,7 @@ You can create markdowns using simple charcters. Below are a few basic examples 
 * (* *)= Italic
 * (_ _) bold and Italic
 
-### inline or blockquotes 
+### inline or block quotes 
 
 - (>)= block quote. 
 - (>>)=Nested block quotes
