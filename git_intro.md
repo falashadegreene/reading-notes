@@ -10,11 +10,11 @@ Git is a DVCS (Distribution Version Control System) that stores data in your loc
 * Head 
 
 ## Git Commands 
-* git status -- To determine that state of files 
-* git add filename -- Tracks one file
-* git commit -m -- Make change with message
-* git commit -a -- commiting all changes
-* git push origin master -- Push changes to remote repo 
+* git status = To determine that state of files 
+* git add filename = Tracks one file
+* git commit -m = Make change with message
+* git commit -a = commiting all changes
+* git push origin master = Push changes to remote repo 
 
 > *Git is a great tool for tracking files and working in repos in effective collaborative way*
 
