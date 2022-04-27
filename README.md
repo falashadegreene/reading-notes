@@ -24,6 +24,6 @@ My definition of _Growth Mindset_ is having the ability to believe in the proces
 
 ## Table of Contents
 
-Markdown
-Html 
-Structure
+- Markdown
+- Html 
+- Structure
