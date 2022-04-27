@@ -18,3 +18,4 @@ Git is a DVCS (Distribution Version Control System) that stores data in your loc
 
 > *Git is a great tool for tracking files and working in repos in effective collaborative way*
 
+<https://github.com/falashadegreene/reading-notes/edit/main/git_intro.md>
