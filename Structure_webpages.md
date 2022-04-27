@@ -1,4 +1,4 @@
-# **Structured Webpages HTML**
+# **Structured Web pages HTML**
 
 ## Stages of creating a structured webpage in html
 
