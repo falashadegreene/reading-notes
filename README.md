@@ -24,7 +24,7 @@ My definition of _Growth Mindset_ is having the ability to believe in the proces
 
 # Table of Contents
 
-- Markdown.md
-- HTML Structure 
-- Git Intro
-- Terminal 
+- *[Markdown](https://github.com/falashadegreene/reading-notes/markdown.md)*
+- *[HTML Structure](https://github.com/falashadegreene/reading-notes/Structure_webpages.md)*
+- *[Git Intro](https://github.com/falashadegreene/reading-notes/git_intro.md)*
+- *[Terminal](https://github.com/falashadegreene/reading-notes/terminal.md)*
