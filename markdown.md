@@ -1,4 +1,4 @@
-# **Markdowns**
+# **Markdown**
 
 I learned that **Markdown** is essentially shorthand syntax or basic text used for text editors.
 
