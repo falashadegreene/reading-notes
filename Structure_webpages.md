@@ -22,3 +22,5 @@ Semantic tags are used to help identify and organize the structure from top to b
 
 * header tag = `<h></h>`
 * paragraph tag = `<p></p>`
+
+<https://github.com/falashadegreene/reading-notes/blob/main/Structure_webpages.md>
