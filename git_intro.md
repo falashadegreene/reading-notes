@@ -16,5 +16,5 @@ Git is a DVCS (Distribution Version Control System) that stores data in your loc
 * git commit -a -- commiting all changes
 * git push origin master -- Push changes to remote repo 
 
-> Git is an great tool for tracking files and working in repos in effective collaborative way
+> *Git is a great tool for tracking files and working in repos in effective collaborative way
 
