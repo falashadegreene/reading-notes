@@ -15,3 +15,10 @@ After you've created your wireframe, now you have an idea of what you're going t
       <head>
       </head>
     </html>
+
+### Semantics in html 
+
+Semantic tags are used to help identify and organize the structure from top to bottom of your page. Semantic tags are also great to use if another person were viewing and navigating your code. View an example of a semantic tag below: 
+
+* header tag = `<h></h>`
+* paragraph tag = `<p></p>`
