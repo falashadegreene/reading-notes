@@ -2,10 +2,10 @@
 
 ## Operators 
 
-In Javascript there are many operaters. A few common operators are Assignment Operaters and Comparison Operators.
+In Javascript there are many operators. A few common operators are Assignment Operators and Comparison Operators.
 
 
-### Assignment Operaters 
+### Assignment Operators 
 
 A assignment operator assigns a value to its left operand based on the value of its right operand. Here are a few examples of assignment operators. 
 
@@ -14,9 +14,9 @@ A assignment operator assigns a value to its left operand based on the value of 
  > - Multiplication assignment 
  > - Division assignment
 
-### Comparison Operaters 
+### Comparison Operators 
 
-A Comparison Operater compares its operands and returns a logical value based on whether the comparison is true. Here are a few comparison Operaters
+A Comparison Operator compares its operands and returns a logical value based on whether the comparison is true. Here are a few comparison Operators
 
 > -  Equal (==)
 > -  Not equal (!=)
