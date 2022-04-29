@@ -31,6 +31,10 @@ A Comparison Operater compares its operands and returns a logical value based on
 
 A loop is used for executing a block of statements repeatedly until a particular condition is satisfied. A few examples are a "foor loop" and "while loop".
 
+* For loop -  loops through a block of code a number of times
+* While loop - loops through a block of code while a specified condition is true
+
+
 for (let step = 0; step < 5; step++) {
   
   console.log('Walking east one step');
